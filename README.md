@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### 4. Run the Application
 
 ```bash
-python "test.py"
+python "SecureMessageEncryptor.py"
 ```
 
 
